@@ -1,0 +1,33 @@
+
+.about-us .image-part img {
+    background-color: #FFF;
+    padding: 10px;
+    box-shadow: 0 0 10px 5px #ebebeb;
+}
+
+.page-nav {
+    background-size: 100%;
+    padding: 68px;
+    text-align: center;
+    padding-top: 200px;
+    background-color: #eaeaea;
+}
+
+.page-nav {
+    background-size: auto;
+}
+
+.about-us .text-part p {
+    text-indent: 20px;
+    margin-bottom: 15px;
+    line-height: 27px;
+    font-weight: 500;
+    text-align: justify;
+    font-size: .9rem;
+}
+
+.page-nav ul li a {
+    color: #444;
+    font-size: .93rem;
+    font-weight: 600;
+}
